@@ -1,6 +1,8 @@
-# First Post
-Tajdar Khan  
-August 11, 2016  
+---
+layout: post
+title: Boost Your Data Munging with R
+tags: R data.table
+--- 
 
 
 
@@ -29,6 +31,6 @@ summary(cars)
 
 You can also embed plots, for example:
 
-![](2016-08-11-FirstPost_files/figure-html/pressure-1.png)<!-- -->
+![](figure/pressure-1.png)<!-- -->
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
