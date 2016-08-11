@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Boost Your Data Munging with R
-tags: R data.table
 --- 
 
 
