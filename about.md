@@ -4,14 +4,30 @@ title: About
 permalink: /about/
 ---
 
-I'm a freelance developer and researcher with a background in ecology. I like R and maps. This blog is to share R related things.
+- DW/BI developer
 
-For more see : [andysouth.co.uk](http://www.andysouth.co.uk).
+  - Dimensional data modelling
+  - SQL
+  - Procedural SQL
+  - ETL packages
+  - Reporting tools
 
-Or my [CV](/images/cv_AndySouth_2pages_dec2014.pdf)
+- R developer
 
-Or [google scholar](http://scholar.google.com/citations?user=eJz46kAAAAAJ&hl=en)
+  - R packages development
+  - High performance data processing
+  - Time series data analysis
+  - Rmarkdown automated reporting
+  - Shiny framework web dashboards
 
-### Contact
+- Infrastructure
 
-[southandy@gmail.com](mailto:southandy@gmail.com)
+  - Ubuntu Server
+  - Docker
+  - VirtualBox
+  - Git
+  - Continuous Integration
+
+### Contact me
+
+`j.gorecki@wit.edu.pl || jangorecki@protonmail.ch`

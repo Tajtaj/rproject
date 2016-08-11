@@ -18,9 +18,11 @@ html {
 }
 
 body {
-	background: $white;
-  font: 18px/1.4 $helvetica;
+  background: $white;
+  font: 16px/1.4 $helvetica; 
   color: $darkGray;
+  color: #333;
+  background-color: #fff;
 }
 
 .container {
@@ -277,6 +279,16 @@ footer {
   padding: 20px 0;
   text-align: center;
 }
+
+// ----------------------------------
+// table custom css taken from github
+// ----------------------------------
+
+table{display:block;width:100%;overflow:auto;word-break:normal;word-break:keep-all}
+table th{font-weight:bold}
+table th, table td{padding:3px 6px;border:1px solid #ddd}
+table tr{background-color:#fff;border-top:1px solid #ccc}
+table tr:nth-child(2n){background-color:#f8f8f8}
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
